@@ -1,0 +1,6 @@
+{
+  "name": "Screen Privacy Guard",
+  "description": "On-device screen privacy guard that detects peepers via front camera and triggers instant privacy blur with customizable sensitivity and battery-saving mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
